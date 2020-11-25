@@ -1,2 +1,2 @@
 # URI
-Alguns exercícios da plataforma URI Online Judge
+Solved exercises from the URI Online Judge platform
